@@ -7,4 +7,4 @@ title:  "Second post"
 
 **This** is just a test.
 
-![Markdown for including image](/images/sequence_0.svg | relative_url)
+![Markdown for including image]({{"/images/sequence_0.svg" | relative_url}})
