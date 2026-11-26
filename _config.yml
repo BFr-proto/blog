@@ -2,6 +2,5 @@ theme: minima
 title: BFr-proto's blog
 description: This is where I share cool stuff
 author: BFr-proto
-website: https://bfr-proto.github.io
-basewebsite: /blog
-permalink: date
+url: https://bfr-proto.github.io
+baseurl: /blog
